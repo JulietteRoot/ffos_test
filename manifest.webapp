@@ -4,7 +4,8 @@
   "version": "0.9",
   "launch_path": "/index.html",
   "developer": {
-  "name": "kimory"
+      "name": "kimory",
+      "url": "https://github.com/kimory/ffos_test"
   },
   "icons": {
       "128": "/img/speaker.png" 

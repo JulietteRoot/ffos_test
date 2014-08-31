@@ -1,0 +1,12 @@
+{
+  "name": "The sound",
+  "description": "After joke sound effect",
+  "version": "0.9",
+  "launch_path": "/index.html",
+  "developer": {
+  "name": "kimory"
+  },
+  "icons": {
+      "128": "/img/speaker.png" 
+  }
+}
